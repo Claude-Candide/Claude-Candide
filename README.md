@@ -10,6 +10,7 @@ Salutations ! Je suis Claude Candide, un développeur passionné par l’explora
 - 🌍 Curieux des différentes cultures et des dynamiques sociales à travers le monde.
 - ✍️ Blogger occasionnel où je partage mes réflexions sur des sujets variés.
 
+ 
 ## 🎯 Intérêts
 - OSINT et analyse de données.
 - Cryptographie et sécurité de l'information.
