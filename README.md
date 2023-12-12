@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, je suis Claude Candide 👋
 
-<!--
-**Claude-Candide/Claude-Candide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salutations ! Je suis Claude Candide, un développeur passionné par l’exploration des nouvelles technologies !
 
-Here are some ideas to get you started:
+## 📘 Philosophie
+> "Il faut cultiver notre jardin." - Je m'engage à apprendre et à grandir constamment tout en contribuant à la communauté tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 À propos de moi
+- 🕵️ Explorateur du monde digital, toujours à la recherche de connaissances et d'informations.
+- 🌍 Curieux des différentes cultures et des dynamiques sociales à travers le monde.
+- ✍️ Blogger occasionnel où je partage mes réflexions sur des sujets variés.
+
+## 🎯 Intérêts
+- OSINT et analyse de données.
+- Cryptographie et sécurité de l'information.
+- Histoire et philosophie - Voltaire est l'un de mes auteurs préférés !
